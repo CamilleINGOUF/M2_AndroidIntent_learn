@@ -5,4 +5,6 @@
     <string name="edit">Edit</string>
     <string name="proposed_edit">The proposed edit</string>
     <string name="valid">Validate</string>
+    <string name="uppercase">UPPERCASE</string>
+    <string name="reverse">Reverse</string>
 </resources>
