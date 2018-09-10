@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestIntent03</string>
+    <string name="current_value">The current value</string>
+    <string name="enter_value">Enter value</string>
+    <string name="edit">Edit</string>
+    <string name="proposed_edit">The proposed edit</string>
+    <string name="valid">Validate</string>
+</resources>
